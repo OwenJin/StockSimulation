@@ -1,0 +1,13 @@
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\bin\Debug\CardStock.exe.config
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\bin\Debug\CardStock.exe
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\bin\Debug\CardStock.pdb
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\CardStock.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\Views\CardDeckView.baml
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\Views\CardDeckView.g.cs
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\App.g.cs
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\CardStock_MarkupCompile.cache
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\CardStock.g.resources
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\Jarloo.CardStock.Properties.Resources.resources
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\CardStock.csproj.GenerateResource.Cache
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\CardStock.exe
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\CardStock\CardStock\obj\x86\Debug\CardStock.pdb
